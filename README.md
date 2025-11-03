@@ -16,14 +16,7 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Yapay zeka, makine öğrenm
 
 
 
-
 ### 📌 Top Contributed Repo
 
 [![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=azraksk&limit=1&theme=radical&combine_all_yearly_contributions=true)](https://github.com/azraksk)
 
-
-### 📌 Pinned Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azraksk&repo=AI-RAG-Chatbot&theme=radical)](https://github.com/azraksk/AI-RAG-Chatbot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azraksk&repo=portfoy-web&theme=radical)](https://github.com/azraksk/portfoy-web)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azraksk&repo=hava-durumu-uygulamasi&theme=radical)](https://github.com/azraksk/hava-durumu-uygulamasi)
