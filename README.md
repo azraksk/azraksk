@@ -24,11 +24,7 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Yapay zeka, makine öğrenm
 
 ### 📌 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azraksk&repo=free-way-in&theme=radical)](https://github.com/azraksk/free-way-in)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azraksk&repo=game-company-level-based-customer-prediction&theme=radical)](https://github.com/azraksk/game-company-level-based-customer-prediction)
+[![Readme Card](https://github.com/azraksk/AI-RAG-Chatbot.git)]
+[![Readme Card](https://github.com/azraksk/portfoy-web.git)]
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azraksk&repo=image-processing&theme=radical)](https://github.com/azraksk/image-processing)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azraksk&repo=Rule-Based-Customer-Profit-Prediction&theme=radical)](https://github.com/azraksk/Rule-Based-Customer-Profit-Prediction)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azraksk&repo=mealai&theme=radical)](https://github.com/azraksk/mealai)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azraksk&repo=Sugar-Beet-Disease-Detection-App-BeetApp-&theme=radical)](https://github.com/azraksk/Sugar-Beet-Disease-Detection-App-BeetApp-)
+[![Readme Card](https://github.com/azraksk/hava-durumu-uygulamasi.git)
