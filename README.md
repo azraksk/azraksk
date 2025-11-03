@@ -20,7 +20,9 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Yapay zeka, makine öğrenm
 
 ### ✍️ Random Dev Quote
 
+
 ![Quote](https://github-readme-quotes.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 📌 Top Contributed Repo
 
