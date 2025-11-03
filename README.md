@@ -21,22 +21,4 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Yapay zeka, makine öğrenm
 
 [![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=azraksk&limit=1&theme=radical&combine_all_yearly_contributions=true)](https://github.com/azraksk)
 
-import streamlit as st
-import requests
 
-st.title("📌 Pinned Repositories")
-
-username = "YusraAzra"  # GitHub kullanıcı adını buraya yaz
-url = f"https://gh-pinned-repos.egoist.dev/?username={username}"
-
-response = requests.get(url)
-
-if response.status_code == 200:
-    repos = response.json()
-    for repo in repos:
-        st.markdown(f"### [{repo['repo']}](https://github.com/{username}/{repo['repo']})")
-        st.markdown(f"⭐ {repo['stars']} | 🍴 {repo['forks']}")
-        st.markdown(f"{repo['description']}")
-        st.write("---")
-else:
-    st.error("Pinned repos could not be fetched 😢")
