@@ -14,16 +14,29 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Yapay zeka, makine öğrenm
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azraksk&layout=compact&theme=radical)
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=azraksk&theme=oldie&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-### ✍️ Random Dev Quote
-
-![Quote](https://github-readme-quotes.vercel.app/api?type=horizontal&theme=radical)
 
 
 
 ### 📌 Top Contributed Repo
 
 [![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=azraksk&limit=1&theme=radical&combine_all_yearly_contributions=true)](https://github.com/azraksk)
+
+import streamlit as st
+import requests
+
+st.title("📌 Pinned Repositories")
+
+username = "YusraAzra"  # GitHub kullanıcı adını buraya yaz
+url = f"https://gh-pinned-repos.egoist.dev/?username={username}"
+
+response = requests.get(url)
+
+if response.status_code == 200:
+    repos = response.json()
+    for repo in repos:
+        st.markdown(f"### [{repo['repo']}](https://github.com/{username}/{repo['repo']})")
+        st.markdown(f"⭐ {repo['stars']} | 🍴 {repo['forks']}")
+        st.markdown(f"{repo['description']}")
+        st.write("---")
+else:
+    st.error("Pinned repos could not be fetched 😢")
