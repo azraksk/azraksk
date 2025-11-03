@@ -24,7 +24,6 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Yapay zeka, makine öğrenm
 
 ### 📌 Pinned Repositories
 
-[![Readme Card](https://github.com/azraksk/AI-RAG-Chatbot.git)]
-[![Readme Card](https://github.com/azraksk/portfoy-web.git)]
-
-[![Readme Card](https://github.com/azraksk/hava-durumu-uygulamasi.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azraksk&repo=AI-RAG-Chatbot&theme=radical)](https://github.com/azraksk/AI-RAG-Chatbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azraksk&repo=portfoy-web&theme=radical)](https://github.com/azraksk/portfoy-web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azraksk&repo=hava-durumu-uygulamasi&theme=radical)](https://github.com/azraksk/hava-durumu-uygulamasi)
