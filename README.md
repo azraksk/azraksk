@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 ### Hi there 👋 I'm Yüsra Azra Demirel
 
 🎓 Computer Engineering Student at Fenerbahçe University  
@@ -9,4 +9,3 @@
 
 ![Yüsra's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusrademirel&show_icons=true&theme=radical)
 
--->
