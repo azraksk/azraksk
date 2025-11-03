@@ -16,7 +16,7 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Yapay zeka, makine öğrenm
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yusrademirel&theme=oldie&no-frame=true&no-bg=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=azraksk&theme=oldie&no-frame=true&no-bg=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 
@@ -24,4 +24,4 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Yapay zeka, makine öğrenm
 
 ### 📌 Top Contributed Repo
 
-[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=yusrademirel&limit=1&theme=radical&combine_all_yearly_contributions=true)](https://github.com/yusrademirel)
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=azraksk&limit=1&theme=radical&combine_all_yearly_contributions=true)](https://github.com/azraksk)
