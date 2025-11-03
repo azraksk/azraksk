@@ -7,5 +7,7 @@
 🌍 Erasmus in Katowice, Poland  
 💻 Interested in AI, ML, and Embedded Systems  
 
-![Yüsra's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusrademirel&show_icons=true&theme=radical)
+![Yüsra Azra Demirel's GitHub stats](https://github-readme-stats.vercel.app/api?username=azrakskl&show_icons=true&theme=radical)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azraksk&layout=compact&theme=radical)
