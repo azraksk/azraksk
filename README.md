@@ -3,8 +3,8 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Yapay zeka, makine öğrenm
 
 ### 💻  Tech Stack
 **Frontend:** HTML, CSS, JavaScript, React  
-**Backend:** Python, Flask / FastAPI  
-**Database:** SQLite, MySQL, PostgreSQL  
+**Backend:** Python 
+**Database:** MySQL, 
 **AI / ML & Tools:** Python, PyTorch, TensorFlow, scikit-learn, Streamlit
 
 ### GitHub Stats
