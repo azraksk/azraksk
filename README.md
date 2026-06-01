@@ -53,10 +53,10 @@ I enjoy turning ideas into working products: clean UIs on the frontend, solid lo
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=azraksk&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub stats" height="165"/>
-<img src="https://streak-stats.demolab.com?user=azraksk&theme=radical&hide_border=true" alt="GitHub streak" height="165"/>
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=azraksk&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![GitHub streak](https://github-readme-streak-stats-eight.vercel.app/?user=azraksk&theme=radical&hide_border=true)
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=azraksk&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" height="165"/>
+![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=azraksk&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </div>
 
