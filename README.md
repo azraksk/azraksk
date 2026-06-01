@@ -80,11 +80,10 @@ I enjoy turning ideas into working products: clean UIs on the frontend, solid lo
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**privacy-preserving-energy-trading**](https://github.com/azraksk/privacy-preserving-energy-trading) | P2P smart-city energy trading with Python blockchain and SHA-256 identities | `Python` `Blockchain` |
-| [**decentralized-energy-trading**](https://github.com/azraksk/decentralized-energy-trading) | Privacy-preserving decentralized energy trading (thesis project) | `JavaScript` `MIT` |
 | [**athlete-sport-analyzer**](https://github.com/azraksk/athlete-sport-analyzer) | Flask app that recommends sports based on physical attributes | `Python` `Flask` |
 | [**smart-city-energy-trade**](https://github.com/azraksk/smart-city-energy-trade) | Smart city energy trading simulation | `JavaScript` |
 | [**portfoy-web**](https://github.com/azraksk/portfoy-web) | Personal portfolio website | `HTML` `CSS` |
-| [**hava-durumu-uygulamasi**](https://github.com/azraksk/hava-durumu-uygulamasi) | Weather application | `CSS` `JavaScript` |
+| [**E-Commerce**](https://github.com/azraksk/E-Commerce) | E-Commerce Web Site | `PHP` |
 
 ---
 
